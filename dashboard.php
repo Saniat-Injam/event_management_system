@@ -32,7 +32,7 @@
                             <a class="nav-link" href="attendees.php"> Attendees </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="javascript:void(0)"> Admins </a>
+                            <a class="nav-link" href="admin_panel.php"> Admins </a>
                         </li>
 
                     </ul>
