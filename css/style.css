@@ -1,0 +1,9 @@
+body{
+    background-color: lightcyan;
+    background-image: linear-gradient(-315deg, #f8f9d2, #f8f9d2);
+}
+.center_align{
+    text-align: center;
+    font-size: 50px;
+
+}
